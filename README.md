@@ -233,13 +233,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Apache Spark](https://spark.apache.org/) for distributed computing capabilities
 - The retail dataset format is inspired by the UCI Online Retail Dataset
 
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the existing issues in the GitHub repository
-2. Create a new issue with detailed information about the problem
-3. Include sample data and error logs when possible
-
----
-
 **Built with ❤️ for retail analytics and market basket analysis**
